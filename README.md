@@ -7,5 +7,7 @@ The project includes data analysis on sales performance, customer segmentation, 
 -<a href="https://github.com/DiyaVachhani/Power-Bi-Blinkit-Dashboard/blob/main/Blinkit.xlsx">Dataset</a>
 # Technologies Used
 Power BI: Data visualization tool for creating interactive reports and dashboards.
+
 Data Source: Blinkit sales database (or CSV/Excel files containing sales data).
+
 Excel/CSV: Data used for importing into Power BI.
