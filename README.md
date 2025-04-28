@@ -23,3 +23,6 @@ Geographic Analysis: Visual representation of sales data by location.
 Fat Content Information: Detailed analysis of fat content in food items.
 
 Interactive Filters: Allows users to filter the data by time period, category, and location.
+
+## Dashboard:
+![Power BI Desktop 28-04-2025 09_35_01](https://github.com/user-attachments/assets/08c1ef16-306e-474d-a48a-6754da3eb089)
